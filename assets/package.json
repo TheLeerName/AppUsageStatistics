@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-process-windows": "^0.0.2"
+  }
+}
